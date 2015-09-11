@@ -1,0 +1,4 @@
+src-out/*.c
+src-out/*.cpp
+src-out/*.h
+src-out/*.ino
